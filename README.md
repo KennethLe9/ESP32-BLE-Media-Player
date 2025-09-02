@@ -17,9 +17,21 @@ ESP32 Dev Board, 3x four pin pushbuttons, breadboard, male-to-male jumper cables
 | Next       | 21         | Terminal A → GPIO21, Terminal B → GND     |
 | LED        | 2          | Onboard / external LED on GPIO2           |
 
+## Build
+1. Arduino IDE → Boards Manager → install **ESP32 by Espressif (2.0.14)**  
+2. Install **ESP32 BLE Keyboard (T-vK) on Github** → Sketch → Include Library → Add .Zip Library → Upload **ESP32 BLE Keyboard (T-vK) ZIP**
+3. Select your board (e.g., DOIT ESP32 DEVKIT V1) → Upload Sketch
+4. Pair **ESP32 Media Remote** in Bluetooth settings
+
 ## Controls
 - **GPIO 18** — Tap: Previous · Hold: Volume Down
 - **GPIO 19** — Tap: Play/Pause
 - **GPIO 21** — Tap: Next · Hold: Volume Up
 
+  ##Troubleshooting
+  -**Compile error (std::string → String)**: use ESP32 core **2.0.14**
+  -**No response on Button Press**: check wiring
+
+## License
+MIT
 
