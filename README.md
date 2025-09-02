@@ -18,7 +18,7 @@ ESP32 Dev Board, 3x four pin pushbuttons, breadboard, male-to-male jumper cables
 | LED        | 2          | Onboard / external LED on GPIO2           |
 
 ## Controls
-Tap GPIO 18: Previous  · Hold GPIO 18 Volume Down
-Tap GPIO 19: Play/Pause      
-Tap GPIO 21: Next      · Hold GPIO 19 Volume Up
+-Tap GPIO 18: Previous  · Hold GPIO 18 Volume Down
+-Tap GPIO 19: Play/Pause      
+-Tap GPIO 21: Next      · Hold GPIO 19 Volume Up
 
