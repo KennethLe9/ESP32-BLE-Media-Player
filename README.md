@@ -20,7 +20,7 @@ ESP32 Dev Board, 3x four pin pushbuttons, breadboard, male-to-male jumper cables
 ## Build
 1. Arduino IDE → Boards Manager → install **ESP32 by Espressif (2.0.14)**  
 2. Install **ESP32 BLE Keyboard (T-vK) on Github** → Sketch → Include Library → Add .Zip Library → Upload **ESP32 BLE Keyboard (T-vK) ZIP**
-3. Select your board (e.g., DOIT ESP32 DEVKIT V1) → Upload Sketch
+3. Select your board (e.g., ESP32 DEVKIT) → Upload Sketch
 4. Pair **ESP32 Media Remote** in Bluetooth settings
 
 ## Controls
