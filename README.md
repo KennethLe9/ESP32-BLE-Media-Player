@@ -33,7 +33,7 @@ ESP32 Dev Board, 3x four pin pushbuttons, breadboard, male-to-male jumper cables
 - **No response on Button Press**: check wiring
 - 
 
-[![Watch the 40s demo]](https://youtu.be/N8190_iF1do?si=ke38ry5I1bNIJLMo)
+[Watch the 40s demo](https://youtu.be/N8190_iF1do?si=ke38ry5I1bNIJLMo)
 
 ## License
 MIT
