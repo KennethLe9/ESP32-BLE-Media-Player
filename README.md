@@ -32,7 +32,8 @@ ESP32 Dev Board, 3x four pin pushbuttons, breadboard, male-to-male jumper cables
 - **Compile error (std::string → String)**: use ESP32 core **2.0.14**
 - **No response on Button Press**: check wiring
 - 
-[![Watch the 20s demo](docs/demopicture.jpg)](https://youtu.be/N8l9O_iFldo?si=ke38ry5I1bNIJLMo)
+
+[![Watch the 40s demo](docs/demopicture.jpg)](https://youtu.be/N8190_iF1do?si=ke38ry5I1bNIJLMo)
 
 ## License
 MIT
