@@ -28,9 +28,9 @@ ESP32 Dev Board, 3x four pin pushbuttons, breadboard, male-to-male jumper cables
 - **GPIO 19** — Tap: Play/Pause
 - **GPIO 21** — Tap: Next · Hold: Volume Up
 
-  ##Troubleshooting
-  -**Compile error (std::string → String)**: use ESP32 core **2.0.14**
-  -**No response on Button Press**: check wiring
+## Troubleshooting
+-**Compile error (std::string → String)**: use ESP32 core **2.0.14**
+-**No response on Button Press**: check wiring
 
 ## License
 MIT
